@@ -1,1 +1,2 @@
 print("dady")
+print("mamy")
